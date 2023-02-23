@@ -1,5 +1,5 @@
 {
-    "name": "sebastiaanluca/php-stub-generator",
+    "name": "hush-digital/hwos-stub-generator",
     "type": "library",
     "description": "Easily generate files and classes from stubs.",
     "keywords": [
