@@ -29,12 +29,12 @@
     },
     "autoload": {
         "psr-4": {
-            "SebastiaanLuca\\StubGenerator\\": "src"
+            "HushDigital\\StubGenerator\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "SebastiaanLuca\\StubGenerator\\Tests\\": "tests"
+            
         }
     },
     "scripts": {
