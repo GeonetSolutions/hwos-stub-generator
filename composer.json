@@ -19,14 +19,6 @@
             "role": "Author"
         }
     ],
-    "require": {
-        "php": "^7",
-        "illuminate/support": "^5.3"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^6",
-        "raveren/kint": "^1"
-    },
     "autoload": {
         "psr-4": {
             "HushDigital\\StubGenerator\\": "src"
@@ -36,9 +28,6 @@
         "psr-4": {
             
         }
-    },
-    "scripts": {
-        "test": "phpunit"
     },
     "extra": {
         "branch-alias": {
